@@ -1,2 +1,2 @@
-# bytebank
+# curso-flutter
 Projeto em Flutter
